@@ -40,7 +40,6 @@ FeelPay POS is a cutting-edge, offline-first POS software designed for a seamles
 ## Download
 Click [here](https://github.com/OdidaProtas/pos-linux/releases) to download the latest version of FeelPay Desktop POS.
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/51312956-ecd6-4201-b131-c9ee37fa3d71)
 
 
 
