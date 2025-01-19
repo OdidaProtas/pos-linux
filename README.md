@@ -3,6 +3,9 @@
 
 ![Version](https://img.shields.io/github/v/release/OdidaProtas/pos-linux?label=Latest%20Version)
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b1f56546-605d-4557-a5cc-cbaa2ea08f62" />
+
+
 FeelPay POS is a cutting-edge, offline-first POS software designed for a seamless plug-and-play experience. Ideal for multi-terminal setups, it excels in managing inventory, accommodating multiple roles, and ensuring efficient operations across diverse business environments.
 
 <a href="https://github.com/OdidaProtas/pos-linux/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay POS for Linux application</a>
@@ -39,6 +42,8 @@ FeelPay POS is a cutting-edge, offline-first POS software designed for a seamles
 
 ## Download
 Click [here](https://github.com/OdidaProtas/pos-linux/releases) to download the latest version of FeelPay Desktop POS.
+
+
 
 
 
