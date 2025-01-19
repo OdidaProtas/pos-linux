@@ -1,11 +1,13 @@
 
-# FeelPay POS
+# FeelPay POS for Linux
 
-![Version](https://img.shields.io/github/v/release/FeelPay/desktop?label=Latest%20Version)
+![Version](https://img.shields.io/github/v/release/OdidaProtas/pos-link?label=Latest%20Version)
 
-FeelPay POS is a modern POS software designed for a seamless plug-and-play experience. It is perfect for managing inventory, handling multiple roles, and operating efficiently in various business environments. 
+FeelPay POS is a cutting-edge, offline-first POS software designed for a seamless plug-and-play experience. Ideal for multi-terminal setups, it excels in managing inventory, accommodating multiple roles, and ensuring efficient operations across diverse business environments.
 
-<a href="https://github.com/FeelPay/desktop/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay POS for desktop setup</a>
+<a href="https://github.com/FeelPay/desktop/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay POS for Linux application</a>
+
+<a href="https://github.com/FeelPay/desktop/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay POS for Windows application</a>
 
 <a href="https://github.com/FeelPay/Feelpay-POS-for-Android-/releases" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-align:center; text-decoration:none; border-radius:5px;">Click here to download FeelPay for Android APK</a>
 
@@ -36,7 +38,7 @@ FeelPay POS is a modern POS software designed for a seamless plug-and-play exper
 
 
 ## Download
-Click [here](https://github.com/FeelPay/desktop/releases) to download the latest version of FeelPay Desktop POS.
+Click [here](https://github.com/OdidaProtas/pos-linux/releases) to download the latest version of FeelPay Desktop POS.
 
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/51312956-ecd6-4201-b131-c9ee37fa3d71)
 
